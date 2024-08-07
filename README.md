@@ -38,14 +38,6 @@ The Quotes App is a beautifully designed Flutter application that provides users
 - **badges (v3.1.2)**: For showing badges on UI elements.
 - **lottie (v3.1.2)**: For rendering animations.
 
-## Getting Started
-
-To get started with the Quotes App, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/quotes_app.git
-   cd quotes_app
 
 
 ###
